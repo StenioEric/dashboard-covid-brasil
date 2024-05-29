@@ -86,6 +86,23 @@ section {
     border-radius: 1rem;
 }
 
+/* footer {
+    background-color: var(--clr-card);
+    transition: var(--transition);
+    font: var(--ts-normal-semibold);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 19rem;
+    text-align: center;
+}
+
+a {
+    color: var(--clr-link);
+    transition: var(--transition);
+    text-decoration: none;
+} */
+
 /**********************************/
 /**********************************/
 
@@ -308,9 +325,20 @@ section {
 /* 7. Data Box
 /**********************************/
 
+.data-box_header{
+    font: var(--ts-caption);
+    text-transform: uppercase;
+    margin-bottom: 1.6rem;
+}
 
-
+.data-box_description{
+    font: var(--ts-normal-text);
+}
 /**********************************/
 /* 8. Footer
 /**********************************/
 
+/* .footer-text_source {
+    margin-bottom: 3.2rem;
+}
+ */
