@@ -1,17 +1,17 @@
 const _elements = {
     loading: document.querySelector(".loading"),
-    switch: document.querySelector(".switch__track"),
+    switch: document.querySelector(".switch_track"),
     stateSelectToggle: document.querySelector(".state-select-toggle"),
-    selectOptions: document.querySelectorAll(".state-select-list__item"),
+    selectOptions: document.querySelectorAll(".state-select-list_item"),
     selectList: document.querySelector(".state-select-list"),
-    selectToggleIcon: document.querySelector(".state-select-toggle__icon"),
-    selectSearchBox: document.querySelector(".state-select-list__search"),
-    selectStateSelected: document.querySelector(".state-select-toggle__label"),
-    confirmed: document.querySelector(".info__total--confirmed"),
-    deaths: document.querySelector(".info__total--deaths"),
-    deathsDescription: document.querySelector(".data-box__description"),
-    vaccinated1: document.querySelector(".info__total--vaccinated-1"),
-    vaccinated2: document.querySelector(".info__total--vaccinated-2"),
+    selectToggleIcon: document.querySelector(".state-select-toggle_icon"),
+    selectSearchBox: document.querySelector(".state-select-list_search"),
+    selectStateSelected: document.querySelector(".state-select-toggle_label"),
+    confirmed: document.querySelector(".info_total--confirmed"),
+    deaths: document.querySelector(".info_total--deaths"),
+    deathsDescription: document.querySelector(".data-box_description"),
+    vaccinated1: document.querySelector(".info_total--vaccinated-1"),
+    vaccinated2: document.querySelector(".info_total--vaccinated-2"),
 }
 
 const _data = {
