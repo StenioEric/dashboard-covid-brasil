@@ -25,7 +25,11 @@ const _data = {
 const _charts = {};
 
 _elements.switch.addEventListener("click", () => {
-
+    const isDark = _elements.switch.classList.toggle("switch_track--dark");
+    if(isDark)
+    document.documentElement.setAttribute("data-theme","dark");
+    else
+    document.documentElement.setAttribute("data-theme","light");
 });
 
 _elements.stateSelectToggle.addEventListener("click", () => {
