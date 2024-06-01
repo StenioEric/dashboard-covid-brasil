@@ -33,6 +33,8 @@ _elements.switch.addEventListener("click", () => {
 });
 
 _elements.stateSelectToggle.addEventListener("click", () => {
+    _elements.selectToggleIcon.classList.toggle("state-select-toggle_icon--rotate");
+    _elements.selectList.classList.toggle("state-select-list--show")
 
 });
 
