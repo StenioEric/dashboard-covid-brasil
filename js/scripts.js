@@ -47,7 +47,17 @@ _elements.selectOptions.forEach(item => {
 });
 
 _elements.selectSearchBox.addEventListener("keyup", (e) => {
+    const search = e.target.value.toLowerCase();
 
+    for(const item of _elements.selectOptions){
+        const state = item.innerText.toLowerCase();
+
+        if(state.includes(search)){
+            item.classList.remove("state-select-list_item--hide");
+        }else {
+            item.classList.add("state-select-list_item--hide");
+        }
+    }
 });
 
 const request = (api, id) => {
