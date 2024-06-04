@@ -18,4 +18,5 @@ Este projeto desenvolve um painel interativo de monitoramento da COVID-19 no Bra
 - **Gráficos**: Utilização da biblioteca ApexCharts para criar gráficos dinâmicos e interativos.
 - **Hospedagem**: Implantado no GitHub Pages para garantir fácil acesso e compartilhamento.
 
-+ <a href="https://stenioeric.github.io/dashboard-covid-brasil" target="_blank">Veja o resultado final do projeto</a>
+## Veja o resultado final do projeto
++ <a href="https://stenioeric.github.io/dashboard-covid-brasil" target="_blank">Clique Aqui</a>
