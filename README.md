@@ -1,11 +1,21 @@
-# Covid Brasil
+# COVID-19 Dashboard Brasil
 
-Nesse repositório você encontra os *starter files* de um dashboard responsivo (com dark mode) feito com HTML, CSS e Javascript chamado **Covid Brasil**. 
+## Descrição do Projeto
 
-Nesse projeto são utilizados os dados da pandemia de COVID-19 no Brasil. O coronavírus foi identificado pela primeira vez por autoridades da cidade de Wuhan, capital da província de Hubei na China, entre pacientes que tinham desenvolvido pneumonia sem causa identificável. O surto inicial deu origem a uma pandemia global que à data de 25 de setembro de 2021 tinha resultado em 231.105.748 casos confirmados e 4.736.892 mortes em todo o mundo.
+Este projeto desenvolve um painel interativo de monitoramento da COVID-19 no Brasil, proporcionando visualizações detalhadas e atualizadas sobre o avanço da pandemia no país. Utilizando dados oficiais de fontes confiáveis, o dashboard apresenta estatísticas como número de casos confirmados, recuperações, óbitos, e taxas de vacinação, permitindo uma análise abrangente da situação atual e tendências ao longo do tempo.
 
-Pensa-se que o coronavírus tenha origem zoonótica. A primeira transmissão para seres humanos ocorreu em Wuhan, na China, em novembro ou dezembro de 2019. No início de janeiro de 2020, a principal fonte de infecção era já a transmissão entre seres humanos.
+## Funcionalidades
 
-Em 26 de fevereiro de 2020 se confirmou o primeiro caso do covid19 no Brasil. Um brasileiro retornando da Itália, onde a pandemia já tinha alcançado patamares bem preocupantes. Quase 2 anos depois, estamos vivendo um momento histórico, e está literalmente nas nossas mãos o que vai acontecer daqui pra frente.
+- **Visualização de Dados em Tempo Real**: Acesso a dados atualizados sobre casos de COVID-19 em todas as regiões do Brasil.
+- **Gráficos Interativos**: Gráficos de linhas, barras e mapas que facilitam a compreensão das informações.
+- **Filtros Personalizados**: Opções de filtragem por estado permitindo uma análise detalhada de áreas específicas.
+- **Informações sobre Vacinação**: Dados sobre a distribuição e aplicação das vacinas, incluindo porcentagens de população vacinada.
+- **Comparações Temporais**: Ferramentas para comparar dados ao longo de diferentes períodos, identificando tendências e padrões.
 
-Você aprenderá como criar um dashboard responsivo usando esse dados, permitindo que se faça uma análise de dados completos sobre o número de casos confirmados, de mortos e de vacinados no Brasil. Ao aprender como montar dashboard com javascript utilizando os dados da covid19, você poderá depois alterar esse projeto para criar até mesmo outros tipos de painel administrativo (admin dashboard).
+## Tecnologias Utilizadas
+
+- **Frontend**: Desenvolvido com HTML, CSS e JavaScript para criar uma interface de usuário responsiva.
+- **Gráficos**: Utilização da biblioteca ApexCharts para criar gráficos dinâmicos e interativos.
+- **Hospedagem**: Implantado no GitHub Pages para garantir fácil acesso e compartilhamento.
+
++ <a href="https://stenioeric.github.io/dashboard-covid-brasil" target="_blank">Veja o resultado final do projeto</a>
