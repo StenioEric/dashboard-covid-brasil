@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este projeto desenvolve um painel interativo de monitoramento da COVID-19 no Brasil, proporcionando visualizações detalhadas e atualizadas sobre o avanço da pandemia no país. Utilizando dados oficiais de fontes confiáveis, o dashboard apresenta estatísticas como número de casos confirmados, recuperações, óbitos, e taxas de vacinação, permitindo uma análise abrangente da situação atual e tendências ao longo do tempo.
+Este projeto desenvolve um painel interativo de monitoramento da COVID-19 no Brasil, proporcionando visualizações detalhadas e atualizadas sobre o avanço da pandemia no país. Utilizando dados oficiais de fontes confiáveis, o dashboard apresenta estatísticas como número de casos confirmados,óbitos, e taxas de vacinação, permitindo uma análise abrangente da situação atual e tendências ao longo do tempo.
 
 ## Funcionalidades
 
